@@ -1,0 +1,39 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "faisal",
+      "email": "faisal.z.khan5538@gmail.com",
+      "number": 8087842960,
+      "city": "Bhusawal"
+    },
+    {
+      "name": "aamir Khan",
+      "email": "faisal.z.khan5538@gmail.com",
+      "number": "08087842960",
+      "city": "Bhusawal",
+      "id": 2
+    },
+    {
+      "name": "misbah Khan",
+      "email": "faisal.z.khan5538@gmail.com",
+      "number": "08087842960",
+      "city": "Bhusawal",
+      "id": 3
+    },
+    {
+      "name": "izhaan",
+      "email": "izhaan@gmail.com",
+      "number": "8421360524",
+      "city": "nasik",
+      "id": 4
+    },
+    {
+      "name": "zahid khan",
+      "email": "zahid@gmail.com",
+      "number": "9890330681",
+      "city": "bhusawal",
+      "id": 5
+    }
+  ]
+}
